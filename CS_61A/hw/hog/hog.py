@@ -168,7 +168,6 @@ def play(strategy0, strategy1, score0=0, score1=0, dice=six_sided,
     # BEGIN PROBLEM 5
     "*** YOUR CODE HERE ***"
 
-
     # END PROBLEM 5
     # (note that the indentation for the problem 6 prompt (***YOUR CODE HERE***) might be misleading)
     # BEGIN PROBLEM 6
